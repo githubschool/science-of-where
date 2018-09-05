@@ -1,9 +1,10 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Runtime Release Team Rocks!"
+Mascot: "Go Packers"
 ---
 
-Caption here
+Whoop Whoop!! GitHub learning in progress :)
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
