@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: "Runtime Release Team Rocks!"
+Mascot: "Go Packers"
 ---
 
 Whoop Whoop!! GitHub learning in progress :)
