@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Runtime Release Team Rocks!"
 ---
 
 Whoop Whoop!! GitHub learning in progress :)
