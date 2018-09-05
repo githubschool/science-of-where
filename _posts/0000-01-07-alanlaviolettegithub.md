@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Say Hi to Snow Octocat"
 ---
 
 It's all gone spotty
