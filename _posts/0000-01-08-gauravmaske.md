@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+A concoction for managing bugs....
 
 ![labtocat](https://octodex.github.com/images/labtocat.png)
 {: .center}
