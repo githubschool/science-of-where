@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# gary's comment
+# gary's comment AAAAA
 
 red=$'\e[1;31m'
 grn=$'\e[1;32m'
