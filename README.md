@@ -35,6 +35,10 @@ Please take a moment to complete the class survey at: https://goo.gl/QHdJNX.
 - [Git Katas](https://github.com/praqma-training/gitkatas)
 - [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
 
+#### Hector's cool tools
+
+- [Visualizing Git](https://github.com/git-school/visualizing-git)
+
 #### Review materials & visualization
 - [Review videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
