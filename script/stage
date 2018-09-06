@@ -19,7 +19,7 @@ fi
 # staging site, but don't start a local server.
 printf "\n${grn}# Building site...\n--------------------------------------------------${end}\n"
 DISABLE_WHITELIST=1 bundle exec jekyll build --baseurl "/${account}/${repo}"
-
+#Create a conflict - Gaurav
 # Create a temp Git repo to push from
 #
 # 1. From the compiled Jekyll `_site` directory
