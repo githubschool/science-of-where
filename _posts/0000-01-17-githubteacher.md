@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "My new cool slide"
+title: "Working on conflict"
 ---
 
 Caption here
