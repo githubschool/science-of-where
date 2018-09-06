@@ -4,7 +4,7 @@ title: "Runtime Release Team Rocks!"
 Mascot: "Go Packers"
 ---
 
-Whoop Whoop!! GitHub learning in progress :)
+You are the right person to caption this image.
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
