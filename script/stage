@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# gary's comment
+# gaurav's comment
 
 red=$'\e[1;31m'
 grn=$'\e[1;32m'
