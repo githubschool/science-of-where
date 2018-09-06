@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "My new cool slide"
+title: "The Green Bay Packers is the best football team ever!"
 ---
 
 Caption here
