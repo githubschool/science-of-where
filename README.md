@@ -22,18 +22,21 @@ Please take a moment to complete the class survey at: https://goo.gl/QHdJNX.
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 
-### Extended Resources 
+### Extended Resources
 
 <details>
   <summary>More helpful links including videos, cheat sheets, and visualization tools
 </summary>
-  
+
 #### Git
 - [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 - [git-scm](https://git-scm.com)
 - [Git Out of Trouble](https://services.github.com/on-demand/git-trouble/)
 - [Git Katas](https://github.com/praqma-training/gitkatas)
 - [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
+
+#### Cool tools....
+- [Gitkraken](https://www.gitkraken.com/)
 
 #### Review materials & visualization
 - [Review videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz)
